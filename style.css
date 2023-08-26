@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+#hero {
+    width: 1024px;
+    margin: auto;
+}
+
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px; 
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 32px;
+}
+
+h1 span {
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+
+    font-size: 15px;
+    line-height: 22px;
+    width: 548px;
+    margin: auto;
+
+}
+
+span {
+    color: #EE24FF;
+}
+
+p, a {
+    color: #828282;
+}
+
+footer a + a {
+    color: #828282;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+#wave {
+    width: 1024px;
+    height: 104px;
+    margin: auto;
+    right: 50px;
+    padding: 1024 x 104;
+}
+
